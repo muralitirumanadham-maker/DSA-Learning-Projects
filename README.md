@@ -1,2 +1,2 @@
 # DSA-Learning-Projects
-Uploading DSA projeccts after learning the concept.
+Uploading DSA projects after learning the concept.
